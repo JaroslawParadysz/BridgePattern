@@ -4,7 +4,7 @@ namespace BridgePattern.Drowing.Impl
 {
     public class DrowingAdapterV1 : IDrowingService
     {
-        private readonly DP1 _dp1;
+        private readonly DP1 _dp1, dp;
 
         public DrowingAdapterV1()
         {
