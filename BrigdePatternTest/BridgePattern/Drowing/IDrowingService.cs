@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BridgePattern.Drowing
 {/// <summary>
-/// Comment on master3
+    /// Coment on branch and next message
     /// </summary>
     public interface IDrowingService
     {
