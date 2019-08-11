@@ -4,6 +4,9 @@ using System.Text;
 
 namespace BridgePattern.Drowing
 {
+    /// <summary>
+    /// Comment
+    /// </summary>
     public interface IDrowingService
     {
         void DrowALine(int x1, int y1, int x2, int y2);
